@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-redux-practice-songs/static/js/main.3c428578.chunk.js",
+    "main.js.map": "/react-redux-practice-songs/static/js/main.3c428578.chunk.js.map",
+    "runtime~main.js": "/react-redux-practice-songs/static/js/runtime~main.92b06f11.js",
+    "runtime~main.js.map": "/react-redux-practice-songs/static/js/runtime~main.92b06f11.js.map",
+    "static/js/2.b9c01a8d.chunk.js": "/react-redux-practice-songs/static/js/2.b9c01a8d.chunk.js",
+    "static/js/2.b9c01a8d.chunk.js.map": "/react-redux-practice-songs/static/js/2.b9c01a8d.chunk.js.map",
+    "index.html": "/react-redux-practice-songs/index.html",
+    "precache-manifest.b8da41b7c0d84f5a415c50fd6d99ef96.js": "/react-redux-practice-songs/precache-manifest.b8da41b7c0d84f5a415c50fd6d99ef96.js",
+    "service-worker.js": "/react-redux-practice-songs/service-worker.js"
+  }
+}
